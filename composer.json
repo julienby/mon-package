@@ -1,0 +1,19 @@
+{
+    "name": "systemiz/mon-package",
+    "description": "Test",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Systemiz\\MonPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julien BY",
+            "email": "julien.baudry@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

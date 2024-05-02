@@ -1,0 +1,19 @@
+{
+    "name": "systemiz/src",
+    "description": "test package",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Systemiz\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julien BY",
+            "email": "julien.baudry@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
