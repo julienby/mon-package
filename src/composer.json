@@ -5,7 +5,7 @@
     "license": "GNU",
     "autoload": {
         "psr-4": {
-            "Systemiz\\Src\\": "src/"
+            "MonPackage\\": "src/"
         }
     },
     "authors": [
