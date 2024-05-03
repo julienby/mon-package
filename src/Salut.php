@@ -8,7 +8,7 @@ class Salut {
     }
     
     public function hello() {
-        return "Hello tout le monde !";
+        return "Hello tout le monde ! Hello !!";
     }
 }
 
